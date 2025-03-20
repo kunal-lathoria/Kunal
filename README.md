@@ -1,6 +1,6 @@
 ## Hi, I'm Kunal Lathoria
 
-Bachelor of Computer Science(BCA) student <br/> 
+Bachelor of Computer Application(BCA) student <br/> 
 Full Stack Developer<br/> 
 Open Source contributor<br/> 
 I make videos and content related to code 
